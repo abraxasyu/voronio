@@ -1,0 +1,13 @@
+{
+  "name": "voronio",
+  "version": "0.0.1",
+  "description": "voronoi game",
+  "dependencies": {
+    "express": "^4.15.2",
+    "socket.io": "^1.7.3"
+  },
+  "main": "index.js",
+  "devDependencies": {},
+  "author": "",
+  "license": "ISC"
+}
